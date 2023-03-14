@@ -1,5 +1,4 @@
 import CartWidget from "./CartWidget/CartWidget.jsx";
-import Categorias from "./Categorias/Categorias";
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -17,4 +16,4 @@ const Navbar = () => {
     );
 }
 
-export default Navbar;
+export default Navbar;import Categorias from "./Categorias/Categorias";

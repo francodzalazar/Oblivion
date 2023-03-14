@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "accion",
+        "nombre": "God of War",
+        "plataforma": "Ps4",
+        "precio": 4199,
+        "stock": 30,
+        "img": "gow.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "multiplayer",
+        "nombre": "Crash Team Racing",
+        "plataforma": "Ps4",
+        "precio": 3499,
+        "stock": 20,
+        "img": "crash.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "shooter",
+        "nombre": "The last of us",
+        "plataforma": "Ps4",
+        "precio": 1999,
+        "stock": 15,
+        "img": "lou.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "deportes",
+        "nombre": "Fifa 23",
+        "plataforma": "Ps4",
+        "precio": 8000,
+        "stock": 30,
+        "img": "fifa.jpg"
+    }
+]
